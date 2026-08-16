@@ -1,5 +1,5 @@
 # Landing Page Copy — "GTM, Rebuilt"
-*[Placeholder newsletter name — swap for your actual title/brand before publishing. All [bracketed] fields need your input.]*
+*Newsletter name confirmed. All other [bracketed] fields still need your input.*
 
 ---
 

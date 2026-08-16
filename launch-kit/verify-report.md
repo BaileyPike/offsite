@@ -13,8 +13,8 @@
 | Newsletter name used consistently ("GTM, Rebuilt") | ✅ | flagged below | ✅ | See note |
 | Placeholders clearly marked, nothing fabricated (no fake numbers/quotes/testimonials) | ✅ proof section explicitly says don't fabricate | ✅ | ✅ | Pass |
 
-**Note flagged, not blocking:** Launch posts Days 2–6 don't repeat the newsletter name "GTM, Rebuilt" inline (Day 1 introduces it implicitly, name isn't spoken again until the link references). This is intentional for LinkedIn readability but confirm it matches your actual brand name before posting — the name itself is a placeholder pending your decision.
+**Note, not blocking:** Launch posts Days 2–6 don't repeat the newsletter name "GTM, Rebuilt" inline (Day 1 introduces it implicitly, name isn't spoken again until the link references) — intentional for LinkedIn readability. Name itself is now confirmed, no further action needed.
 
-**Assumption still open (carried from positioning.md):** ICP company-size floor (~$50M+ ARR) was an assumption, not confirmed. Nothing in these assets over-specifies ARR, so no rework needed even if that number moves — but confirm before heavy outreach targeting.
+**Assumption resolved:** ICP company-size floor confirmed at ~$20M+ ARR (was ~$50M+ at first draft). Re-checked all three assets — none over-specify ARR, so no rework was required.
 
 **Verdict: all three assets pass consistency check against the positioning doc.** No rewrites required.

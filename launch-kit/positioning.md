@@ -5,7 +5,7 @@
 A newsletter (content brand) establishing the author as an independent GTM advisor covering how enterprise SaaS go-to-market is being rebuilt in the AI era.
 
 ## Buyer
-**Who:** CRO / VP Sales / Head of RevOps at growth-stage to enterprise B2B SaaS companies (assumption: ~$50M+ ARR, org has a dedicated RevOps function — confirm if the target is earlier-stage).
+**Who:** CRO / VP Sales / Head of RevOps at growth-stage to enterprise B2B SaaS companies (ICP floor confirmed: ~$20M+ ARR, org has a dedicated RevOps function).
 
 **What's actually keeping them up at night** (their own words, pulled from the research):
 - "Everyone has data but nobody agrees what it means" — GTM stack fragmentation across marketing/sales/CS
@@ -56,4 +56,4 @@ Direct, skeptical of hype, uses the audience's own vocabulary (agentic era, hybr
 Subscribe to the newsletter. Launch posts and outreach drive to a single landing page with one ask: subscribe (secondary ask for early replies: a founding-reader interview/feedback call).
 
 ---
-*Assumption flagged for confirmation: company-size floor for the "enterprise SaaS" ICP (~$50M+ ARR with dedicated RevOps). If your actual target skews earlier-stage, the buyer-language section shifts — say so before I move to the writing phase.*
+*ICP floor confirmed at ~$20M+ ARR (2026-08-16 update, lowered from initial ~$50M+ assumption). No changes required to the buyer-language, channel, or competitor sections — the research wasn't pinned to a specific ARR band. The writing assets (landing page, launch posts, outreach) were checked against this: none over-specify ARR, so no rework needed there either.*
