@@ -12,6 +12,7 @@
 | Self-aware of the AI-outreach-fatigue problem it names (outreach doesn't do what it criticizes) | n/a | n/a | ✅ short, no fake personalization tokens, single ask, opt-out line in touch 1 | Pass |
 | Newsletter name used consistently ("GTM, Rebuilt") | ✅ | flagged below | ✅ | See note |
 | Placeholders clearly marked, nothing fabricated (no fake numbers/quotes/testimonials) | ✅ proof section explicitly says don't fabricate | ✅ | ✅ | Pass |
+| Vendor-affiliation disclosed accurately (author is SVP EMEA at SnapLogic — no asset may claim "no vendor affiliation" or "no vendor tie") | ✅ fixed: subhead + bio now disclose SnapLogic role explicitly | ✅ fixed: Day 1 adds explicit disclosure line | ✅ fixed: connection request no longer claims "no vendor tie"; email/DM sign-offs disclose | Pass (was a fail on first draft — corrected) |
 
 **Note, not blocking:** Launch posts Days 2–6 don't repeat the newsletter name "GTM, Rebuilt" inline (Day 1 introduces it implicitly, name isn't spoken again until the link references) — intentional for LinkedIn readability. Name itself is now confirmed, no further action needed.
 

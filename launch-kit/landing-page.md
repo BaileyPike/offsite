@@ -1,5 +1,5 @@
 # Landing Page Copy — "GTM, Rebuilt"
-*Newsletter name confirmed. All other [bracketed] fields still need your input.*
+*Newsletter name and author bio confirmed. Remaining [bracketed] fields: proof (subscriber count, endorsement quote) — fill in once real.*
 
 ---
 
@@ -7,7 +7,7 @@
 
 **H1:** Your revenue engine wasn't built for a hybrid workforce of humans and agents. Nobody's is.
 
-**Subhead:** GTM, Rebuilt is a weekly breakdown of how CROs and RevOps leaders at enterprise SaaS companies are actually rebuilding their revenue engines for the AI era — not which tools to buy. Written by [Your Name], no vendor affiliation, no tool to sell.
+**Subhead:** GTM, Rebuilt is a weekly breakdown of how CROs and RevOps leaders at enterprise SaaS companies are actually rebuilding their revenue engines for the AI era — not which tools to buy. Written by Nick Pike, in a personal capacity — no tool pitched in these pages.
 
 **CTA button:** Subscribe — it's free
 
@@ -50,7 +50,9 @@ GTM, Rebuilt is a practitioner-level newsletter for people who run revenue, not 
 
 ### Who writes this
 
-[Your Name] — [1–2 sentence bio: your operating background in enterprise SaaS GTM/RevOps, why you have standing to write this, no vendor title front-and-center]. This is an independent publication — no sponsor decides what runs.
+Nick Pike has spent 25 years building and running enterprise go-to-market — most of it during hypergrowth: 100%+ annual growth pre-IPO, then scaling revenue through $100M–$1B post-IPO. He's run cross-functional sales and marketing teams of 40+, including 20+ quota carriers, at New Relic (through IPO), OutSystems, and Vizibl (as CRO). He currently leads SnapLogic's EMEA business, where he works with enterprise customers building agentic integration — AI agents doing real operational work, not slideware. B.Eng, University of Bath. MBA, London Business School.
+
+**Disclosure, plainly:** GTM, Rebuilt is written in a personal capacity. It's not a SnapLogic publication, doesn't feature SnapLogic case studies or pitch SnapLogic (or any vendor), and nobody signs off on it before it goes out. The SnapLogic day job is where the operating experience comes from — it's not what this newsletter is selling.
 
 ---
 

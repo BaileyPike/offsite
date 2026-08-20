@@ -2,7 +2,10 @@
 *Merge output from: buyer profile · channel map · competitor scan — 2026-08-16*
 
 ## Offer
-A newsletter (content brand) establishing the author as an independent GTM advisor covering how enterprise SaaS go-to-market is being rebuilt in the AI era.
+A newsletter (content brand) establishing Nick Pike as a next-generation GTM advisor covering how enterprise SaaS go-to-market is being rebuilt in the AI era.
+
+## Author disclosure (address directly, don't hide)
+Nick Pike is SVP & GM EMEA at SnapLogic (an agentic-integration/iPaaS vendor), and before that ran EMEA enterprise revenue at New Relic through its IPO, led Northern Europe for OutSystems, and was CRO at Vizibl — 25+ years running GTM through hypergrowth (100%+ pre-IPO, then $100M–$1B post-IPO scaling), including teams of 40+ and 20+ quota carriers. That's a real vendor affiliation, and it's discoverable in one LinkedIn click — so the newsletter discloses it up front rather than claiming false independence. The credibility line isn't "unaffiliated," it's "doesn't pitch product here": no SnapLogic case studies, no SnapLogic mentions, personal capacity, nobody signs off on an issue before it goes out. The operating experience (running real GTM through three eras — pre-cloud, cloud/IPO scale, now agentic) is the asset; the day job is disclosed, not laundered.
 
 ## Buyer
 **Who:** CRO / VP Sales / Head of RevOps at growth-stage to enterprise B2B SaaS companies (ICP floor confirmed: ~$20M+ ARR, org has a dedicated RevOps function).
@@ -33,12 +36,12 @@ A newsletter (content brand) establishing the author as an independent GTM advis
 |---|---|---|
 | GTM Partners (GTM Newsletter) | Frameworks, benchmarks, broad org-wide | Speaks to all of GTM, not narrowly to CRO/RevOps operational mechanics |
 | Chris Walker / GTM Live | "GTM is broken," contrarian, video-heavy | Aimed at CEO/CFO/board-level; not an operator's how-to |
-| Kyle Coleman (Copy.ai CMO) | AI-unifies-GTM narrative | Vendor-tied — credibility discounted as product marketing |
+| Kyle Coleman (Copy.ai CMO) | AI-unifies-GTM narrative | Content ties back to his own product — reads as marketing, not independent POV |
 | Topline (Pavilion) | Sales leadership, board conversations | Community-run, general sales leadership, not AI-specific |
 | Maja / Go-To-Market Strategist | AI-GTM campaigns | Skews marketing/growth, not revenue-ops mechanics |
 | Winning by Design | Bowtie framework, methodology | Reads as a services/consulting pitch, not independent POV |
 
-**Whitespace:** an independent (non-vendor) voice writing narrowly to CRO/RevOps leaders about the *mechanics* of rebuilding the revenue engine for a hybrid human+agent workforce — pipeline scoring, handoffs, forecast integrity, org design — not tool roundups and not generalist GTM strategy.
+**Whitespace:** a voice writing narrowly to CRO/RevOps leaders about the *mechanics* of rebuilding the revenue engine for a hybrid human+agent workforce — pipeline scoring, handoffs, forecast integrity, org design — not tool roundups and not generalist GTM strategy. The differentiator from Kyle Coleman/Copy.ai isn't "has a day job vs. doesn't" — it's whether the content sells the author's own product. This one draws that line explicitly (see Author disclosure below).
 
 ## Positioning statement
 > For CROs and RevOps leaders at enterprise SaaS companies trying to figure out how AI actually changes the revenue engine — not just which tools to buy — this newsletter is the independent, operator-level breakdown of how GTM motions are being rebuilt for the agentic era. Unlike vendor blogs and generalist GTM newsletters, it never sells a tool and never stays at the strategy-deck level of altitude.

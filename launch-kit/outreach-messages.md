@@ -17,7 +17,8 @@ Worth a look: [link]
 
 If it's not useful, no worries — I won't follow up more than once.
 
-[Your Name]
+Nick Pike
+(I run SnapLogic's EMEA business — this newsletter isn't that. Personal project, no pitch.)
 
 ---
 
@@ -33,13 +34,13 @@ If pipeline handoffs, forecast accuracy, or "what does our org chart look like w
 
 Either way, good luck with the quarter.
 
-[Your Name]
+Nick Pike
 
 ---
 
 ## LinkedIn connection request (300 char limit)
 
-Hi [First Name] — I write an independent newsletter on rebuilding revenue engines for the AI/agentic era (no vendor tie, no tool pitch). Given your role at [Company], thought it might be useful. Happy to connect either way.
+Hi [First Name] — I write a personal newsletter on rebuilding revenue engines for the AI/agentic era (no product pitch — including SnapLogic, where I lead EMEA). Given your role at [Company], thought it might be useful. Happy to connect either way.
 
 ---
 
@@ -65,4 +66,4 @@ You subscribed to GTM, Rebuilt recently — thank you. I'm talking to a small gr
 
 If you have 15 minutes, I'd like to hear: what's the one mechanic in your revenue engine — pipeline, forecast, org design — that's actually broken right now? No pitch, just listening. Happy to keep it off the record or credit you in a future issue, your call.
 
-[Your Name]
+Nick Pike

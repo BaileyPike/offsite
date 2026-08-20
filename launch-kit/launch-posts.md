@@ -1,5 +1,5 @@
 # Launch Week — 7 LinkedIn Posts
-*Sequenced to build toward the subscribe ask. Post daily; adjust day-of-week to your actual launch date. [Your Name] / [newsletter link] placeholders throughout.*
+*Sequenced to build toward the subscribe ask. Post daily; adjust day-of-week to your actual launch date. Posted from Nick Pike's own LinkedIn — [date] / [link] placeholders throughout.*
 
 ---
 
@@ -16,6 +16,8 @@ The real one: is your revenue engine coherent enough for AI to help at all — o
 Most GTM content right now is either a vendor selling you the fix, or a strategy deck too high-altitude to change what you do Monday morning.
 
 I'm starting a newsletter for the people who own the number, not the people who sell to them. No tool to pitch. No sponsor deciding what runs.
+
+(Also, since it'll come up: yes, I run SnapLogic's EMEA business. This is a personal project — not a SnapLogic publication, and I won't be pitching SnapLogic or anyone else in these pages.)
 
 First issue goes out [date]. Link in comments if you want in.
 
