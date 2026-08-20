@@ -49,6 +49,30 @@ Nick Pike is SVP & GM EMEA at SnapLogic (an agentic-integration/iPaaS vendor), a
 ## Voice
 Direct, skeptical of hype, uses the audience's own vocabulary (agentic era, hybrid workforce, revenue engine, pipeline integrity, forecast accuracy) instead of generic "AI changes everything" language. Opinionated, not neutral — this is a POV brand, not a news digest.
 
+## Signature thesis: does the old GTM leadership profile translate?
+*Added 2026-08-20 — a sharper, more personal angle than the general pillars below. Worth considering as the anchor thesis the four pillars sit under, since it's the question a leader who scaled GTM through the pre-cloud, cloud/IPO, and now agentic eras is uniquely positioned to answer from the inside — not as an outside commentator.*
+
+The question isn't "does AI change GTM." It's: **do the qualities that got someone hired to scale SaaS GTM over the last 15 years still make them the right hire now** — and if not, what actually replaces them.
+
+**Fades — was valuable, isn't the differentiator anymore:**
+- Pure headcount-scaling instinct ("hit the number by hiring more SDRs/AEs"). Boards now demand ARR-per-employee efficiency, not linear headcount growth — AI-native companies are hitting $100M ARR in 4–8 quarters with a fraction of the headcount top-quartile traditional SaaS needed.
+- Single-motion depth (e.g., "I ran outbound inside sales, that's my lane"). The 2026 CRO role has collapsed sales, SDR, partnerships, CS, and often RevOps into one seat — functional specialists without full-stack range are increasingly the wrong fit.
+- Accepting dashboards and forecasts at face value. When the model can be wrong in ways a spreadsheet never was, passive consumption of AI output is now a liability, not a neutral habit.
+
+**Compounds — same skill, now worth more because the stakes and scale are higher:**
+- Buyer empathy and political judgment. Buying committees have grown toward ~13 stakeholders — reading a room and navigating dynamics is something AI still can't do, and it matters more as committees get larger, not less.
+- Financial and forecast rigor. Boards have shifted from funding AI pilots on faith to demanding proven ROI or pulling budget — the leaders who can defend a number under real scrutiny are worth more, not less.
+- Pattern recognition earned across real cycles (hypergrowth, IPO, downturn). Nobody has run a full cycle of the agentic era yet — but operators who've navigated multiple structural shifts before have the closest thing to a transferable instinct for it.
+- Cross-functional orchestration. Already a valued skill; it's now closer to the literal job description as the marketing/sales/CS boundary dissolves into one "full-funnel GTM" motion.
+
+**Emerges — didn't exist as a hiring requirement before:**
+- Managing a workforce that's a real percentage AI agents, not people who use AI tools. Some CROs are being asked to run orgs that are roughly half agents by year-end — that's a systems-design problem, not a people-management one, and there's no existing playbook for it.
+- Interrogating AI output rather than consuming it. Knowing when to trust a model's lead score or forecast and when to override it is now a named, screened-for skill in CRO hiring processes.
+- Workflow and process architecture from scratch. RevOps is shifting from "keep the integrations running" to "design the process a hybrid team should follow" — an architect's job, not a caretaker's.
+- Agent governance and trust design. Preventing the brand-risk incidents that come from a misconfigured agent is now a leadership responsibility with no established precedent to borrow from.
+
+**Why this is a stronger anchor than a generic "AI changes GTM" take:** it's answerable from lived experience (New Relic pre- and through IPO, OutSystems, Vizibl, now SnapLogic) rather than from the outside looking in — and it's honest about the uncomfortable part: some of what got a leader hired in 2015 is now working against them, not for them.
+
 ## Content pillars
 1. **Human + agent org design** — how CRO orgs restructure roles/headcount around AI agents
 2. **Pipeline & forecast integrity in the AI era** — data rot, scoring, handoff failures
