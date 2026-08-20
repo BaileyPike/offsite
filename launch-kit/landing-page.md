@@ -5,9 +5,9 @@
 
 ### Hero
 
-**H1:** Your revenue engine wasn't built for a hybrid workforce of humans and agents. Nobody's is.
+**H1:** Some of what made you a great GTM hire in 2015 is now working against you.
 
-**Subhead:** GTM, Rebuilt is a weekly breakdown of how CROs and RevOps leaders at enterprise SaaS companies are actually rebuilding their revenue engines for the AI era — not which tools to buy. Written by Nick Pike, in a personal capacity — no tool pitched in these pages.
+**Subhead:** GTM, Rebuilt is a weekly look at which GTM leadership qualities fade, which compound, and which are brand new in the agentic era — not a roundup of which tools to buy. Written by Nick Pike, who's scaled enterprise GTM through three eras (pre-cloud, cloud/IPO, now agentic), in a personal capacity — no tool pitched in these pages.
 
 **CTA button:** Subscribe — it's free
 
@@ -33,7 +33,7 @@ GTM, Rebuilt is a practitioner-level newsletter for people who run revenue, not 
 
 **Four things I write about, every week:**
 
-1. **Human + agent org design** — how CRO orgs are actually restructuring roles and headcount around AI agents (not the vendor pitch version)
+1. **Human + agent org design** — how CRO orgs are actually restructuring roles and headcount around AI agents, and which leadership qualities that built the last decade of SaaS GTM fade, compound, or get replaced (not the vendor pitch version)
 2. **Pipeline & forecast integrity in the AI era** — data rot, lead scoring, handoff failures, and what fixes them
 3. **Myth-busting AI GTM claims** — a real teardown of what's working vs. what's hype, with the numbers
 4. **The CRO survival guide** — how to prove revenue impact inside a tenure window that's shrinking every year

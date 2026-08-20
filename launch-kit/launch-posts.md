@@ -5,17 +5,17 @@
 
 ## Day 1 — The manifesto (why now)
 
-Every CRO I talk to is being asked the same question right now:
+Some of what made you a great GTM hire in 2015 is now working against you.
 
-"What's our AI strategy for GTM?"
+I've spent 25 years scaling enterprise GTM — pre-cloud, through a cloud-era IPO, and now watching the agentic shift up close. Here's the uncomfortable part: not everything that got someone hired to run revenue for the last decade still applies.
 
-Wrong question.
+Some of it is fading. Pure headcount-scaling instinct — "hit the number by adding more SDRs" — doesn't hold when AI-native companies are hitting $100M ARR with a fraction of the headcount top-quartile SaaS needed. Single-motion depth doesn't either; the 2026 CRO seat has swallowed sales, SDR, CS, partnerships, sometimes RevOps into one job.
 
-The real one: is your revenue engine coherent enough for AI to help at all — or are you about to bolt automation onto a system where marketing reports 400 MQLs, sales says 60 are worth calling, and nobody agrees on what the data means?
+Some of it compounds. Buyer empathy matters more, not less, now that buying committees have grown toward 13 stakeholders — that's still not something AI can do for you. Neither is defending a forecast to a board that's stopped funding AI pilots on faith.
 
-Most GTM content right now is either a vendor selling you the fix, or a strategy deck too high-altitude to change what you do Monday morning.
+And some of it is genuinely new. Running a team that's a real percentage AI agents by year-end is a systems-design problem, not a people-management one. Nobody's handed anyone a playbook for that yet.
 
-I'm starting a newsletter for the people who own the number, not the people who sell to them. No tool to pitch. No sponsor deciding what runs.
+I'm starting a newsletter to work through exactly this, every week — which qualities fade, which compound, which are brand new, and what that means for how revenue leaders actually get built and hired now. No tool to pitch. No sponsor deciding what runs.
 
 (Also, since it'll come up: yes, I run SnapLogic's EMEA business. This is a personal project — not a SnapLogic publication, and I won't be pitching SnapLogic or anyone else in these pages.)
 
