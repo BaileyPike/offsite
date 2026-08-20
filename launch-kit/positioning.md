@@ -73,11 +73,27 @@ The question isn't "does AI change GTM." It's: **do the qualities that got someo
 
 **Why this is a stronger anchor than a generic "AI changes GTM" take:** it's answerable from lived experience (New Relic pre- and through IPO, OutSystems, Vizibl, now SnapLogic) rather than from the outside looking in — and it's honest about the uncomfortable part: some of what got a leader hired in 2015 is now working against them, not for them.
 
+### Sequencing: who designs the system, and does the leader survive it?
+*Added 2026-08-20 — a deeper unpack of the "fades/compounds/emerges" thesis, specifically for pillar 1 and pillar 4. This is the sharpest, most personal version of the thesis and the strongest hook found so far.*
+
+Three sequencing models for building a GTM org in the agentic era:
+
+- **Leader-first (the default):** define the goal, hire an experienced GTM leader, let them design the org from a blank page. Risk: their pattern library was built scaling human-only orgs — hire them first and the system gets built in their image, AI bolted onto a human-shaped org chart rather than designed around what agents can actually do. Rebuilds the "fades" profile with an AI skin.
+- **System-first, then leader:** architect the target-state process — what runs on agents, what needs a human, where handoffs live — then hire/spec a leader to match it. Cleaner on paper, but has a chicken-and-egg problem: nobody designs a working GTM system without an operator in the room, and consultant-drawn org charts that never touched a real buying committee tend to break on contact with the market.
+- **Bottom-up emergent:** don't spec the human role yet. Let agents run the operational load — outreach, scoring, forecast drafts — let the process evolve through real execution and feedback, and only once it's proven, retroactively spec whatever leadership the system actually needs. Inverts the traditional hiring motion: run → observe → hire, instead of mission → org chart → hire.
+
+**The position this newsletter takes:** pure bottom-up is too risky for GTM specifically — unlike a back-office workflow, this function carries external trust and brand risk in real time (a misconfigured agent burns relationships, not just internal cycles), and buying-committee politics still needs a human reading the room while the system is learning. Pure leader-first just rebuilds the old machine with new branding. The honest middle: hire the leader, but change the mandate — not "build the org," but "run a time-boxed discovery phase using agents for the operational load, then report back on what the mature system's leadership spec actually is." That makes the leader's job explicitly about running the experiment that reveals the answer, including possibly writing the spec for their own successor.
+
+**The signature line:**
+> Are you building a bottom-up AI-automated GTM that will replace you for a differently skilled leader?
+
+This is the sharpest, most publishable sentence the positioning work has produced — uncomfortable coming from a sitting SVP, which is exactly what makes it credible instead of another hot take. Strong fit for pillar 4 (CRO survival guide): the leaders who last aren't just proving ROI, they're the ones honest about whether the system they're building still needs them in the same shape a year from now.
+
 ## Content pillars
 1. **Human + agent org design** — how CRO orgs restructure roles/headcount around AI agents
 2. **Pipeline & forecast integrity in the AI era** — data rot, scoring, handoff failures
 3. **Myth-busting AI GTM claims** — teardown of what's actually working vs. hype
-4. **The CRO survival guide** — proving ROI inside a 17–25 month tenure window
+4. **The CRO survival guide** — proving ROI inside a 17–25 month tenure window, and being honest about whether the system you're building still needs you in the same shape a year from now
 
 ## Primary CTA
 Subscribe to the newsletter. Launch posts and outreach drive to a single landing page with one ask: subscribe (secondary ask for early replies: a founding-reader interview/feedback call).

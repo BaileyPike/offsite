@@ -65,11 +65,15 @@ Fix the pipeline mechanics first. I write about exactly this — every week, no 
 
 ## Day 5 — Pillar: the CRO survival guide
 
-Average CRO tenure right now: 17 to 25 months.
+Average CRO tenure right now: 17 to 25 months. That's roughly six quarters to prove the revenue engine works before someone else gets the seat.
 
-That's not "you have a career." That's "you have roughly six quarters to prove the revenue engine works before someone else gets the seat."
+Here's the harder version of that question, and most CROs building an AI-driven GTM motion right now aren't asking it:
 
-Which means the CROs who last aren't the ones with the best AI strategy slide. They're the ones who can point to one specific mechanic they fixed and the number that moved because of it.
+Are you building a bottom-up AI-automated GTM that will replace you for a differently skilled leader?
+
+If your agents are quietly learning the role — running outreach, scoring, forecast drafts — and the process is evolving underneath you, the system that emerges in 18 months may need a different profile than the one that got you hired. Not a hypothetical. A sequencing decision you're making right now, whether you're making it on purpose or not.
+
+The CROs who last aren't just the ones who can point to a number they moved. They're the ones honest about whether the system they're building still needs them, in the same shape, a year from now.
 
 I'm writing a running playbook for exactly that. [link]
 
